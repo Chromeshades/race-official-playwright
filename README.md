@@ -1,7 +1,7 @@
-Race Social Playwright End-to-End Testing
+R.A.C.E Playwright End-to-End Testing
 =========================================
 
-This repository contains Playwright end-to-end (E2E) tests for the Race.Social website ([invalid URL removed] or eventually <https://race.social>). These tests are designed to ensure the core functionality and user experience of the website remain intact throughout development.
+This repository contains Playwright end-to-end (E2E) tests for the R.A.C.E website which will eventually become <https://race.social>). These tests are designed to ensure the core functionality and user experience of the website remain intact throughout development.
 
 Key Features
 ------------
