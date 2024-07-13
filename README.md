@@ -90,8 +90,10 @@ License
 This project is licensed under the Apache 2.0 License. See the `LICENSE` file for details.
 -----------------------------------------------------------------------------------
 
-**README TODOs**
+## Contact
 
--   **Screenshots/GIFs:** Include visuals to demonstrate test execution and failures.
--   **Code Examples:** Provide a few snippet examples of page object models and test structures.
--   **Contact:** Include contact information.
+I'm happy to answer questions, collaborate, or hear your feedback!
+
+- **Email:** jason@race.social
+- **GitHub:** [Chromeshades](https://github.com/Chromeshades)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jaosonbrown/)
