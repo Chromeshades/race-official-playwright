@@ -11,5 +11,8 @@
     "@playwright/test": "^1.45.1",
     "@types/node": "^20.14.10",
     "globals": "^15.8.0"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.9.1"
   }
 }
