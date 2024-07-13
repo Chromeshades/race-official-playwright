@@ -3,6 +3,14 @@ R.A.C.E Playwright End-to-End Testing
 
 This repository contains Playwright end-to-end (E2E) tests for the R.A.C.E website which will eventually become <https://race.social>. These tests are designed to ensure the core functionality and user experience of the website remain intact throughout development.
 
+## Contact
+
+I'm happy to answer questions, collaborate, or hear your feedback!
+
+- **Email:** jason@race.social
+- **GitHub:** [Chromeshades](https://github.com/Chromeshades)
+- **LinkedIn:** [Jason Brown](https://www.linkedin.com/in/jaosonbrown/)
+
 Key Features
 ------------
 
@@ -89,11 +97,3 @@ License
 
 This project is licensed under the Apache 2.0 License. See the `LICENSE` file for details.
 -----------------------------------------------------------------------------------
-
-## Contact
-
-I'm happy to answer questions, collaborate, or hear your feedback!
-
-- **Email:** jason@race.social
-- **GitHub:** [Chromeshades](https://github.com/Chromeshades)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jaosonbrown/)
